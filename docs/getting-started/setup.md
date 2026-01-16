@@ -13,7 +13,7 @@ You need to have the following tools installed:
 
 You don’t need to download Now Prototype It manually. Instead, when you create a prototype, you run a single command that temporarily downloads it, creates a prototype on your machine, and then discards the download. This saves space, and ensures you’re always using the latest version.
 
-You are now ready to use Now Prototype It and [create a prototype](/create-prototype)!
+You are now ready to use Now Prototype It and [create your first prototype](/create-prototype)!
 
 ## Troubleshooting
 
